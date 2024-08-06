@@ -6,7 +6,7 @@ Empty repository for practising GitHub forking and pull requests.
 
 Fork this repository, and add your name below!
 
-## People
+## Mariia Makarova
 
 These people succesfully forked this repository, and opened a pull request to add their name to the following list:
 
